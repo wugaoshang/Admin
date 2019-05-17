@@ -25,7 +25,7 @@ Admin 快速开发平台的主要目的是能够让初级的研发人员快速�
 
 1. Admin-test 是运用Admin项目的demo示例工程，独立运行，只是放在了Admin工程下。
 2. application.yml配置文件说明：集成自动部署工具flyway，加入了初始化数据库脚本，需要的话开启`flyway.enabled=true`,配置`flyway.locations=classpath:db/framework/migration`即可。
-3. pom.xml文件说明： 运用了公司manven私服，主要下载admin-framework、admin-core两工具包。配置如下：
+3. pom.xml文件说明： 运用了公司maven私服，主要下载admin-framework、admin-core两工具包。配置如下：
   ```
          <repository>
   			<id>cammm-repos</id>
