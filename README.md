@@ -40,5 +40,7 @@ Admin 快速开发平台的主要目的是能够让初级的研发人员快速�
   ```
   
 + 启动工程，导入数据库，访问两个示例：`http://localhost:86/admin-test/hellow/index  或 http://localhost:86/admin-test/hellow/index1`
++ 访问管理平台：`http://localhost:86/admin-test/ `，账号为：`admin/111111`
+
 
 > ##### Admin项目是根据JeeSite 4.0 进行改造的，若有侵权行为，请发邮件（wugaoshang@hotmail.com）联系作者!谢谢！
