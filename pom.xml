@@ -55,7 +55,7 @@
 			<dependency>
 				<groupId>cn.hutool</groupId>
 				<artifactId>hutool-http</artifactId>
-				<version>4.4.2</version>
+				<version>5.7.19</version>
 			</dependency>
 			<!-- Apache Commons -->
 			<dependency>
